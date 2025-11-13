@@ -1,0 +1,207 @@
+Continent,City,Country,Opened,Company
+Asia,Qingdao,China,2012,alibaba
+Asia,Beijing,China,2013,alibaba
+Asia,Zhangjiakou,China,2014,alibaba
+Asia,Hohhot,China,2017,alibaba
+Asia,Ulanqab,China,2020,alibaba
+Asia,Hangzhou,China,2011,alibaba
+Asia,Shanghai,China,2015,alibaba
+Asia,Nanjing,China,2021,alibaba
+Asia,Fuzhou,China,2022,alibaba
+Asia,Wuhan,China,2023,alibaba
+Asia,Shenzhen,China,2014,alibaba
+Asia,Heyuan,China,2020,alibaba
+Asia,Guangzhou,China,2020,alibaba
+Asia,Chengdu,China,2020,alibaba
+Asia,Hong Kong,China,2014,alibaba
+North America,Washington,United States,2015,alibaba
+North America,San Francisco,United States,2014,alibaba
+Europe,Frankfurt,Germany,2016,alibaba
+Europe,London,United Kingdom,2018,alibaba
+Oceania,Sydney,Australia,2016,alibaba
+Asia,Mumbai,India,2018,alibaba
+Asia,Jakarta,Indonesia,2018,alibaba
+Asia,Tokyo,Japan,2016,alibaba
+Asia,Kuala Lumpur,Malaysia,2017,alibaba
+Asia,Manila,Philippines,2021,alibaba
+Asia,Singapore,Singapore,2015,alibaba
+Asia,Seoul,South Korea,2022,alibaba
+Asia,Bangkok,Thailand,2022,alibaba
+Asia,Riyadh,Saudi Arabia,2022,alibaba
+Asia,Dubai,UAE,2016,alibaba
+North America,Columbus,United States,2016,amazon
+North America,Eastern,United States,2011,amazon
+North America,San Francisco,United States,2009,amazon
+North America,Multiple,United States,2006,amazon
+North America,Columbus,United States,2018,amazon
+North America,Montreal,Canada,2016,amazon
+North America,Calgary,Canada,2024,amazon
+South America,Sao Paulo,Brazil,2011,amazon
+Europe,Frankfurt,Germany,2014,amazon
+Europe,Dublin,Ireland,2007,amazon
+Europe,London,UK,2016,amazon
+Europe,Milan,Italy,2020,amazon
+Europe,Paris,France,2017,amazon
+Europe,Aragon,Spain,2022,amazon
+Europe,Stockholm,Sweden,2018,amazon
+Europe,Zurich,Switzerland,2022,amazon
+Oceania,Auckland,New Zealand,2024,amazon
+Asia,Bangkok,Thailand,2024,amazon
+Asia,Hong Kong,SAR,2019,amazon
+Asia,Hyderabad,India,2022,amazon
+Asia,Jakarta,Indonesia,2021,amazon
+Asia,Kuala Lumpur,Malaysia,2024,amazon
+Oceania,Melbourne,Australia,2023,amazon
+Asia,Mumbai,India,2016,amazon
+Asia,Osaka,Japan,2021,amazon
+Asia,Seoul,South Korea,2016,amazon
+Asia,Singapore,Singapore,2010,amazon
+Oceania,Sydney,Australia,2012,amazon
+Asia,Tokyo,Japan,2011,amazon
+Asia,Beijing,China,2014,amazon
+Asia,Changsha,China,2017,amazon
+Africa,Cape Town,South Africa,2020,amazon
+Asia,Manama,Bahrain,2019,amazon
+Asia,Tel Aviv,Israel,2023,amazon
+Asia,Dubai,UAE,2022,amazon
+North America,Council Bluffs,United States,2013,google
+North America,Moncks Corner,United States,2015,google
+North America,Ashburn,United States,2017,google
+North America,Columbus,United States,2022,google
+North America,Dallas,United States,2022,google
+North America,The Dalles,United States,2013,google
+North America,Los Angeles,United States,2018,google
+North America,Salt Lake City,United States,2020,google
+North America,Las Vegas,United States,2020,google
+North America,Montreal,Canada,2018,google
+North America,Toronto,Canada,2021,google
+South America,Sao Paulo,Brazil,2017,google
+South America,Santiago,Chile,2021,google
+Europe,Warsaw,Poland,2021,google
+Europe,Hamina,Finland,2018,google
+Europe,Madrid,Spain,2022,google
+Europe,St. Ghislain,Belgium,2013,google
+Europe,London,United Kingdom,2017,google
+Europe,Frankfurt,Germany,2017,google
+Europe,Eemshaven,Netherlands,2018,google
+Europe,Zurich,Switzerland,2019,google
+Europe,Milan,Italy,2022,google
+Europe,Paris,France,2022,google
+Europe,Berlin,Germany,2023,google
+Europe,Turin,Italy,2023,google
+Asia,Changhua County,Taiwan,2014,google
+Asia,Hong Kong,SAR,2018,google
+Asia,Tokyo,Japan,2016,google
+Asia,Osaka,Japan,2019,google
+Asia,Seoul,South Korea,2020,google
+Asia,Mumbai,India,2017,google
+Asia,Delhi,India,2021,google
+Asia,Jurong West,Singapore,2017,google
+Asia,Jakarta,Indonesia,2020,google
+Oceania,Sydney,Australia,2017,google
+Oceania,Melbourne,Australia,2021,google
+North America,Altoona,United States,2014,meta
+North America,Prineville,United States,2011,meta
+North America,Forest City,United States,2011,meta
+North America,Fort Worth,United States,2017,meta
+North America,Los Lunas,United States,2019,meta
+Europe,Clonee,Ireland,2018,meta
+Europe,Odense,Denmark,2020,meta
+Europe,Lulea,Sweden,2013,meta
+Asia,Changhua County,Taiwan,2016,meta
+Asia,Singapore,Singapore,2015,meta
+North America,Papillion,United States,2020,meta
+North America,Henrico County,United States,2020,meta
+North America,Eagle Mountain,United States,2018,meta
+North America,Gallatin,United States,2020,meta
+North America,Temple,United States,2022,meta
+North America,New Albany,United States,2017,meta
+North America,Kansas City,United States,2022,meta
+North America,Sarpy,United States,2017,meta
+North America,Kuna,United States,2022,meta
+North America,DeKalb,United States,2020,meta
+North America,Mesa,United States,2021,meta
+North America,Stanton Springs,United States,2018,meta
+North America,Des Moines,United States,2014,microsoft
+North America,Richmond,United States,2012,microsoft
+North America,Chicago,United States,2009,microsoft
+North America,San Antonio,United States,2008,microsoft
+North America,Cheyenne,United States,2016,microsoft
+North America,San Francisco,United States,2012,microsoft
+North America,Moses Lake,United States,2007,microsoft
+North America,Phoenix,United States,2021,microsoft
+North America,Des Moines,United States,2017,microsoft
+North America,Richmond,United States,2017,microsoft
+North America,Phoenix,United States,2017,microsoft
+North America,Austin,United States,2017,microsoft
+North America,Washington,United States,2014,microsoft
+North America,Richmond,United States,2020,microsoft
+North America,San Francisco,United States,2020,microsoft
+South America,Campinas,Brazil,2014,microsoft
+South America,Rio de Janeiro,Brazil,2020,microsoft
+North America,Toronto,Canada,2016,microsoft
+North America,Quebec City,Canada,2016,microsoft
+Europe,Paris,France,2018,microsoft
+Europe,Marseille,France,2018,microsoft
+Europe,Frankfurt,Germany,2016,microsoft
+Europe,Berlin,Germany,2019,microsoft
+Europe,Magdeburg,Germany,2016,microsoft
+Europe,Frankfurt,Germany,2019,microsoft
+Europe,Dublin,Ireland,2009,microsoft
+Europe,Milan,Italy,2023,microsoft
+Europe,Amsterdam,Netherlands,2010,microsoft
+Europe,Oslo,Norway,2019,microsoft
+Europe,Stavanger,Norway,2019,microsoft
+Europe,Warsaw,Poland,2023,microsoft
+Europe,Gavle,Sweden,2021,microsoft
+Europe,Staffanstorp,Sweden,2021,microsoft
+Europe,Zurich,Switzerland,2019,microsoft
+Europe,Geneva,Switzerland,2019,microsoft
+Europe,London,UK,2016,microsoft
+Europe,Cardiff,UK,2016,microsoft
+North America,Ashburn,United States,2017,oracle
+North America,Chicago,United States,2022,oracle
+North America,Phoenix,United States,2016,oracle
+North America,San Jose,United States,2020,oracle
+North America,Ashburn,United States,2018,oracle
+North America,Phoenix,United States,2018,oracle
+North America,Ashburn,United States,2019,oracle
+North America,Chicago,United States,2020,oracle
+North America,Phoenix,United States,2019,oracle
+South America,Sao Paulo,Brazil,2019,oracle
+South America,Vinhedo,Brazil,2021,oracle
+North America,Montreal,Canada,2020,oracle
+North America,Toronto,Canada,2019,oracle
+South America,Santiago,Chile,2020,oracle
+North America,Queretaro,Mexico,2022,oracle
+North America,Monterrey,Mexico,2023,oracle
+Europe,Paris,France,2022,oracle
+Europe,Marseille,France,2021,oracle
+Europe,Frankfurt,Germany,2017,oracle
+Europe,Frankfurt,Germany,2023,oracle
+Europe,Milan,Italy,2021,oracle
+Europe,Amsterdam,Netherlands,2020,oracle
+Europe,Jovanovac,Serbia,2023,oracle
+Europe,Madrid,Spain,2022,oracle
+Europe,Madrid,Spain,2023,oracle
+Europe,Stockholm,Sweden,2021,oracle
+Europe,Zurich,Switzerland,2019,oracle
+Europe,London,United Kingdom,2018,oracle
+Europe,Newport,United Kingdom,2020,oracle
+Europe,London,United Kingdom,2019,oracle
+Europe,Newport,United Kingdom,2020,oracle
+Oceania,Sydney,Australia,2019,oracle
+Oceania,Melbourne,Australia,2020,oracle
+Oceania,Canberra,Australia,2023,oracle
+Asia,Mumbai,India,2019,oracle
+Asia,Hyderabad,India,2020,oracle
+Asia,Tokyo,Japan,2019,oracle
+Asia,Osaka,Japan,2020,oracle
+Asia,Queenstown,Singapore,2021,oracle
+Asia,Seoul,South Korea,2019,oracle
+Asia,Chuncheon,South Korea,2020,oracle
+Asia,Jerusalem,Israel,2021,oracle
+Asia,Jeddah,Saudi Arabia,2020,oracle
+Africa,Johannesburg,South Africa,2022,oracle
+Asia,Dubai,UAE,2020,oracle
+Asia,Abu Dhabi,UAE,2021,oracle
